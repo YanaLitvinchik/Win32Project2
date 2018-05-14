@@ -178,7 +178,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				break;
 			case 10508:
 				MyFunc(hWnd, L'9');
-				break;
+				break;//
 			case 10509:
 				MyFunc(hWnd, L'0');
 				break;
